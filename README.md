@@ -41,6 +41,7 @@ What’s in it for you:
 * Seamless digital client support in front and back office
 
 Source: https://www.swisscom.ch/en/business/enterprise/offer/banking/process-outsourcing/clm-suite.html
+
 ---
 
 #### Question:
@@ -51,6 +52,8 @@ How many hours of recording can I store if I have Swisscom Blue TV M?
 
 Source: https://www.swisscom.ch/en/residential/tv/tv-subscription/blue-tv-m.html
 
+---
+
 #### Question:
 Which are the 2023 measures taken to promote inclusion for employees at the workplace? 
 
@@ -60,6 +63,8 @@ Which are the 2023 measures taken to promote inclusion for employees at the work
 * The majority of job advertisements will be published with an employment level of 60–100%.
 
 Source: https://www.swisscom.ch/en/about/sustainability/targets.html
+
+---
 
 #### Question:
 Which are the 2023 measure taken to ensure we can meet the goal of being Climate-neutral by 2025?
@@ -72,8 +77,12 @@ Which are the 2023 measure taken to ensure we can meet the goal of being Climate
 
 Source: https://www.swisscom.ch/en/about/sustainability/targets.html
 
+---
+
 #### Question:
 How much does Swisscom's network rely on renewable energy? Since when? 
 
 #### Answer:
 Swisscom has been operating its entire network with 100% renewable energy for over 10 years, since 2010.
+
+---
