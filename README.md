@@ -26,3 +26,53 @@ The structure of the elements in the json file is the following:
   -  ```created_at```: data of creating of the text
   -  ```last_modified```: latest modification on the text
   -  ```start_index```: - 
+
+
+## Example Questions you can use to test your solution:
+
+#### Question:
+What does Swisscom offer as part of the Hybrid Client Onboarding for banking customers?
+
+#### Answer:
+Client Onboarding is the hybrid solution for new customer acquisition and is independent of time, place and device. It digitises and standardises processes, automates tasks in the front and back office, uses both the in-branch and self-service channel, improves the efficiency of processes and increases security.
+What’s in it for you:
+* Hybrid account opening process without the need for paperwork and no loss of data
+* All Client Onboarding steps adapted to your processes
+* Seamless digital client support in front and back office
+
+Source: https://www.swisscom.ch/en/business/enterprise/offer/banking/process-outsourcing/clm-suite.html
+
+#### Question:
+How many hours of recording can I store if I have Swisscom Blue TV M?
+
+#### Answer:
+250 hours simultaneous programme recording, of which 50 hours can be archived
+
+Source: https://www.swisscom.ch/en/residential/tv/tv-subscription/blue-tv-m.html
+
+#### Question:
+Which are the 2023 measures taken to promote inclusion for employees at the workplace? 
+
+#### Answer:
+* Promotion of flexible working models for women and men to be pursued further.
+* Promotion of diversity with additional, business unit-specific measures will also be continued.
+* The majority of job advertisements will be published with an employment level of 60–100%.
+
+Source: https://www.swisscom.ch/en/about/sustainability/targets.html
+
+#### Question:
+Which are the 2023 measure taken to ensure we can meet the goal of being Climate-neutral by 2025?
+
+#### Answer:
+* Refurbishment of buildings and heating systems, replacement of fossil fuel-burning heating systems with heat pumps.
+* Electrification of the vehicle fleet and use of hybrid drives(opens in new tab).
+* Agreements with A suppliers.
+* Promotion of supplier participation in the Carbon Disclosure Project (CDP), dialogue with individual suppliers.
+
+Source: https://www.swisscom.ch/en/about/sustainability/targets.html
+
+#### Question:
+How much does Swisscom's network rely on renewable energy? Since when? 
+
+#### Answer:
+Swisscom has been operating its entire network with 100% renewable energy for over 10 years, since 2010.
