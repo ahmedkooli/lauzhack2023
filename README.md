@@ -1,4 +1,4 @@
-# lauzhack2023
+# Welcome to Swisscom@Lauzhack2023
 
 Dear participants, 
 
@@ -8,7 +8,7 @@ We are happy to answer your questions on site or in our discord space.
 
 Happy hacking! 
 
-# Challenge Description
+## Challenge Description
 
 Join us in revolutionising customer interactions! Your mission is to engineer a retrieval system that extracts vital information from our company website. This will help us empower our support team to answer customer queries with lightning speed, enhancing the overall user experience. We will provide you with data from the website already scraped and a set of questions and answers so that you can test your model. You are free to use LLM APIs, small NLP models or any trick you can come up with, we are looking for a creative, interactive and user-friendly solution that ensures seamless access to critical data. 
 
